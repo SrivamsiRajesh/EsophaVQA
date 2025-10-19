@@ -1,0 +1,155 @@
+{
+   "ea_cases":[
+      {
+         "case_id":"case_001",
+         "label":"EA",
+         "modality":"ultrasound",
+         "images":[
+            "case_001/img_01.jpg",
+            "case_001/img_02.jpg",
+            "case_001/img_03.jpg",
+            "case_001/img_04.jpg",
+            "case_001/img_05.jpg",
+            "case_001/img_06.jpg",
+            "case_001/img_07.jpg",
+            "case_001/img_08.jpg"
+         ],
+         "diagnosis":"Esophageal atresia without distal fistula (Type A)",
+         "clinical_info":"Primiparous patient scanned at 28 and 32 weeks gestation. Increasing polyhydramnios noted. Single umbilical artery. Stomach fluid always absent.",
+         "findings":"Fluid-filled pouch posterior to trachea. Absent stomach fluid. Increasing polyhydramnios. Single umbilical artery."
+      },
+      {
+         "case_id":"case_002",
+         "label":"EA",
+         "modality":"xray",
+         "images":[
+            "case_002/img_01.jpg",
+            "case_002/img_02.jpg",
+            "case_002/img_03.jpg",
+            "case_002/img_04.jpg",
+            "case_002/img_05.jpg"
+         ],
+         "diagnosis":"Long segment esophageal atresia (Type A)",
+         "clinical_info":"Neonate with Down syndrome. Not tolerating feeds.",
+         "findings":"Naso/orogastric tube curled in upper mediastinum. Abdomen completely gas-less. No gastric air bubble. Long segment atresia (6 vertebral body heights). No TEF detected."
+      },
+      {
+         "case_id":"case_003",
+         "label":"EA",
+         "modality":"xray",
+         "images":[
+            "case_003/img_01.jpg",
+            "case_003/img_02.jpg"
+         ],
+         "image_notes":"img_01.jpg is full chest X-ray, img_02.jpg is coned view of upper mediastinum",
+         "diagnosis":"Esophageal atresia with distal tracheoesophageal fistula (Type C)",
+         "clinical_info":"Preterm male neonate (indicated by reduced subcutaneous fat and lack of humeral epiphysis ossification). ET tube above carina. UAC and UVC lines too high.",
+         "findings":"Prominent gas-filled structure in upper mediastinum (dilated upper esophagus). Gas present in stomach and small bowel indicating connection between trachea and distal esophagus. Bilateral generalized increased opacification consistent with RDS. Coned view shows dilated gas-filled upper esophagus with abrupt transition at mid-esophagus."
+      },
+      {
+         "case_id":"case_004",
+         "label":"EA",
+         "modality":"xray",
+         "images":[
+            "case_004/img_01.jpg"
+         ],
+         "diagnosis":"Esophageal atresia with tracheoesophageal fistula (Type C)",
+         "clinical_info":"Newborn. Replogle tube in upper pouch.",
+         "findings":"Replogle tube visible in upper mediastinum positioned in upper pouch. Gas present in stomach and small bowel indicating associated tracheoesophageal fistula. Lungs well expanded and clear. Heart size at upper limit of normal. Normal mediastinal contour."
+      },
+      {
+         "case_id":"case_005",
+         "label":"EA",
+         "modality":"fluoroscopy",
+         "images":[
+            "case_005/img_01.jpeg",
+            "case_005/img_02.jpeg",
+            "case_005/img_03.jpeg"
+         ],
+         "diagnosis":"Isolated esophageal atresia (Type A)",
+         "clinical_info":"2-day-old male. Inability to swallow milk, aspiration during feedings. Failure to pass orogastric tube to stomach.",
+         "findings":"Plain film shows orogastric tube not passing to stomach, instead turning back superiorly. After injection of non-ionic water soluble contrast, no passage of contrast to middle and distal esophagus. Proximal esophagus is dilated. Aspiration of contrast noted from level of epiglottis. No distal gas in stomach, excluding distal fistula."
+      },
+      {
+         "case_id":"case_006",
+         "label":"EA",
+         "modality":"xray",
+         "images":[
+            "case_006/img_01.jpeg"
+         ],
+         "diagnosis":"Esophageal atresia with distal tracheoesophageal fistula (Type C)",
+         "clinical_info":"Male neonate. Difficulty in feeding.",
+         "findings":"Curling of nasogastric tube in superior mediastinum. Gas seen in stomach and small bowel loops representing proximal esophageal atresia with distal tracheoesophageal fistula."
+      },
+      {
+         "case_id":"case_007",
+         "label":"EA",
+         "modality":"fluoroscopy",
+         "images":[
+            "case_007/img_01.png",
+            "case_007/img_03.png",
+            "case_007/img_02.png",
+            "case_007/img_04.png",
+            "case_007/img_05.png",
+            "case_007/img_06.png",
+            "case_007/img_07.png",
+            "case_007/img_08.png",
+            "case_007/img_09.png",
+            "case_007/img_10.png",
+            "case_007/img_11.png"
+         ],
+         "diagnosis":"Esophageal atresia with distal tracheoesophageal fistula (Type C)",
+         "clinical_info":"Male neonate. Unable to breastfeed.",
+         "findings":"Dilated upper esophagus demonstrating blind ending pouch. No distal passage of contrast to middle and lower esophagus. Gas filled bowel loops noted."
+      },
+      {
+         "case_id":"case_008",
+         "label":"EA",
+         "modality":"xray",
+         "images":[
+            "case_008/img_01.png",
+            "case_008/img_02.png",
+            "case_008/img_03.png"
+         ],
+         "image_notes":"img_01 is chest X-ray, img_02 is contrast study, img_03 is CT scan",
+         "diagnosis":"Isolated distal esophageal atresia (Type A) - rare variant",
+         "clinical_info":"Female neonate, 38+1 weeks, birth weight 2200g. Maternal polyhydramnios. Drooling frothy secretions. Scaphoid abdomen. VSD and ASD present.",
+         "findings":"Coiled NGT in chest with absent gastric bubble. Upper GI contrast shows dilated upper esophagus with hold-up of contrast. CT shows markedly dilated cervical and thoracic esophagus down to T9 level. Atretic segment located distally, just 2cm above diaphragm. No TEF identified."
+      }
+   ],
+   "normal_cases":[
+      {
+         "case_id":"normal_001",
+         "label":"Normal",
+         "modality":"xray",
+         "images":[
+            "normal_001/img_01.jpeg"
+         ],
+         "diagnosis":"Normal neonatal chest X-ray",
+         "clinical_info":"0-day-old term male newborn. Mild tachypnea.",
+         "findings":"Nasogastric tube tip within stomach. Lungs clear. Normal heart and mediastinal contour."
+      },
+      {
+         "case_id":"normal_002",
+         "label":"Normal",
+         "modality":"xray",
+         "images":[
+            "normal_002/img_01.jpg"
+         ],
+         "diagnosis":"Normal premature neonate chest radiograph - 27 weeks",
+         "clinical_info":"Premature neonate, 27 weeks gestational age",
+         "findings":"Normal appearances. Normal lung fields. Normal heart size. Normal mediastinal contour."
+      },
+      {
+         "case_id":"normal_003",
+         "label":"Normal",
+         "modality":"xray",
+         "images":[
+            "normal_003/img_01.jpg"
+         ],
+         "diagnosis":"Normal shoot-through lateral radiograph - neonate",
+         "clinical_info":"7-day-old male neonate. Clinical concern for pneumothorax.",
+         "findings":"Normal appearances. No pneumothorax. Normal neonatal anatomy on lateral view."
+      }
+   ]
+}
